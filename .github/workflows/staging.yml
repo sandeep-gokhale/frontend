@@ -5,12 +5,12 @@ name: Node.js CI for Create React Application
 
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "staging" ]
 
 jobs:
   build:
 
-    runs-on: [self-hosted, dev]
+    runs-on: [self-hosted, staging]
 
     strategy:
       matrix:
