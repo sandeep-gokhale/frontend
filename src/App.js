@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lets Learn CI/CD via Node and React Application hosted on AWS via
+          Yes - Lets Learn CI/CD via Node and React Application hosted on AWS via
           github actions.
         </a>
       </header>
